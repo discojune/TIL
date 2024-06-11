@@ -2,7 +2,7 @@
 
 ## 입국심사
 프로그래머스 문제 링크:
-- https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/
+- https://school.programmers.co.kr/learn/courses/30/lessons/43238
 
 
 ## 풀이 1. 이분 탐색
